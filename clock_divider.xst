@@ -1,0 +1,5 @@
+set -tmpdir "/home/student1/abehl/COE758/Project2/xst/projnav.tmp"
+set -xsthdpdir "/home/student1/abehl/COE758/Project2/xst"
+elaborate
+-ifn clock_divider.prj
+-ifmt mixed

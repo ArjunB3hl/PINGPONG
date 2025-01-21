@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/student1/abehl/COE758/Project2/top_level_isim_beh.exe" -prj "/home/student1/abehl/COE758/Project2/top_level_beh.prj" "work.top_level" 

@@ -1,0 +1,1 @@
+vhdtdtfi -prj Project2 -o /home/student1/abehl/COE758/Project2/sync_gen.vhi -module sync_gen -template /CMC/tools/xilinx/13.4/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work constants.vhd -lib work sys_gen.vhd 

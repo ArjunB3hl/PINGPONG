@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/student1/abehl/COE758/Project2/top_level_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="constants" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="top_level" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/top_level/clk_50" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_50</obj_property>
+      <obj_property name="ObjectShortName">clk_50</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/left_up" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">left_up</obj_property>
+      <obj_property name="ObjectShortName">left_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/left_down" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">left_down</obj_property>
+      <obj_property name="ObjectShortName">left_down</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/right_up" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">right_up</obj_property>
+      <obj_property name="ObjectShortName">right_up</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/right_down" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">right_down</obj_property>
+      <obj_property name="ObjectShortName">right_down</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/clk_25" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_25</obj_property>
+      <obj_property name="ObjectShortName">clk_25</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/h_sync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">h_sync</obj_property>
+      <obj_property name="ObjectShortName">h_sync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/v_sync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">v_sync</obj_property>
+      <obj_property name="ObjectShortName">v_sync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/rout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rout[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/bout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bout[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/gout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/clk_25_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_25_s</obj_property>
+      <obj_property name="ObjectShortName">clk_25_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/h_count_s" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">h_count_s</obj_property>
+      <obj_property name="ObjectShortName">h_count_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/v_count_s" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">v_count_s</obj_property>
+      <obj_property name="ObjectShortName">v_count_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/left_paddle_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">left_paddle_s</obj_property>
+      <obj_property name="ObjectShortName">left_paddle_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/right_paddle_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">right_paddle_s</obj_property>
+      <obj_property name="ObjectShortName">right_paddle_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/ball_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ball_s</obj_property>
+      <obj_property name="ObjectShortName">ball_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/new_frame_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">new_frame_s</obj_property>
+      <obj_property name="ObjectShortName">new_frame_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/left_pos_s" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">left_pos_s</obj_property>
+      <obj_property name="ObjectShortName">left_pos_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/right_pos_s" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">right_pos_s</obj_property>
+      <obj_property name="ObjectShortName">right_pos_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/rout_s" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rout_s[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rout_s[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/gout_s" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gout_s[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gout_s[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/bout_s" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bout_s[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bout_s[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/h_sync_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">h_sync_s</obj_property>
+      <obj_property name="ObjectShortName">h_sync_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/v_sync_s" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">v_sync_s</obj_property>
+      <obj_property name="ObjectShortName">v_sync_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/control0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">control0[35:0]</obj_property>
+      <obj_property name="ObjectShortName">control0[35:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/ila_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ila_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ila_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level/trig0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">trig0[0:0]</obj_property>
+      <obj_property name="ObjectShortName">trig0[0:0]</obj_property>
+   </wvobject>
+</wave_config>
